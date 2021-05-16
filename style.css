@@ -1,0 +1,19 @@
+body{
+  background-color:pink;
+  text-align: Center;
+}
+h1{
+  color: Purple;
+}
+p{
+  font-weight: bold;
+}
+h2{
+  color: Orange;
+}
+h3{
+  color: red;
+}
+img{
+  width: 20%;
+}
